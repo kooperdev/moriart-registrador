@@ -1,0 +1,24 @@
+[
+   
+    {
+        "name": "🧎‍♂️ **SOLTEIRO**",
+        "emoji": "🧎‍♂️",
+        "id": "659265280811204648",
+        "proximo": "field5.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "👫  **NAMORANDO**",
+        "emoji": "👫",
+        "id": "659265356082315294",
+        "proximo": "field5.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "💍  **CASADO**",
+        "emoji": "💍",
+        "id": "659265380849811476",
+        "proximo": "field5.json",
+        "value": "\u200b"
+    }
+]

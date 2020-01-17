@@ -1,0 +1,23 @@
+[
+    {
+        "name": "🚹  **BANDIDO**",
+        "emoji": "🚹",
+        "id": "659229257054027776",
+        "proximo": "field2.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "🚺  **BANDIDA**",
+        "emoji": "🚺",
+        "id": "659227689319661587",
+        "proximo": "field2.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "🚫  **NÃO BINARIO**",
+        "emoji": "🚫",
+        "id": "659267953107271691",
+        "proximo": "field2.json",
+        "value": "\u200b"
+    }
+]

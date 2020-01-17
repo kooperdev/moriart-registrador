@@ -1,0 +1,24 @@
+[
+   
+    {
+        "name": "📚 **ESTUDANTE**",
+        "emoji": "📚",
+        "id": "659263996502999050",
+        "proximo": "field6.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "💼  **TRABALHADOR(a)**",
+        "emoji": "💼",
+        "id": "659210192600301588",
+        "proximo": "field6.json",
+        "value": "\u200b"
+    },
+    {
+        "name": "🎭  **VAGABUNDO(a)**",
+        "emoji": "🎭",
+        "id": "659263571620003891",
+        "proximo": "field6.json",
+        "value": "\u200b"
+    }
+]
